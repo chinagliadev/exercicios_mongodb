@@ -92,3 +92,29 @@
 22. Ordenar por amostras_coletadas (decrescente).
 
 ![img](image-10.png)
+
+### Atividade 3- planetas_catalogados
+
+23. Inserir registros.
+
+![img](image-11.png)
+
+24. Consultar planetas habitáveis
+
+![img](image-13.png)
+
+25. Mostrar nomes e sistemas com gravidade > 1.0.
+
+![img](image-14.png)
+
+26. Atualizar temperatura de Voltar para 390.
+
+![img](image-16.png)
+
+27. Alterar possui_vida de Aqualis para false.
+
+![img](image-15.png)
+
+28. Ordenar por temperatura_media (crescente).
+
+![img](image-17.png)
