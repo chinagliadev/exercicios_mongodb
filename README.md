@@ -118,3 +118,28 @@
 28. Ordenar por temperatura_media (crescente).
 
 ![img](image-17.png)
+
+29. Inserir dados na collections naves_exploradoras
+
+![img](image-18.png)
+
+30. Consultar eventos com intensidade "Extrema".
+
+![img](image-19.png)
+
+
+31. Mostrar nome_evento e data_observacao
+
+![img](image-20.png)
+
+32. Atualizar Chuva de Cristais para intensidade 'Média'
+
+![img](image-21.png)
+
+33. Alterar registrado_po de Buraco Branco Èpsilon para Dra. Nyra.
+
+![img](image-22.png)
+
+34. Ordenar por data_observacao (decrescente)
+
+![img](image-23.png)
